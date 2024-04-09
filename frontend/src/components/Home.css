@@ -1,0 +1,11 @@
+/* Home.css */
+
+.home {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+    grid-gap: 20px;
+    padding: 20px;
+  }
+  
+  /* Style for individual ProductCard component can be added here */
+  
